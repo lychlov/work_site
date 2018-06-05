@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://docker@10.217.7.44:22/usr/local/bin/python3" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://docker@10.217.7.44:22/usr/local/bin/python3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/docker/work_space/work_site" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
