@@ -4,9 +4,6 @@ from django.contrib import admin
 from chenlin.models import WorkInfo, WorkPic
 
 
-
-
-
 class WorkPicInline(admin.StackedInline):
     model = WorkPic
     extra = 1

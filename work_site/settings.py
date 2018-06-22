@@ -29,7 +29,6 @@ ALLOWED_HOSTS = ["*"]
 # Application definition
 
 INSTALLED_APPS = [
-    'crawler.apps.CrawlerConfig',
     'chenlin.apps.ChenlinConfig',
     'django.contrib.admin',
     'django.contrib.auth',
